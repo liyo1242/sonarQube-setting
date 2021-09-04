@@ -11,7 +11,8 @@
 
 * in the `sonar-install.yml` place, open command line
 * run `docker-compose -f sonar-install.yml up` in your command line
-
+* you should see your docker like that
+* ![alt text](https://github.com/liyo1242/sonarQube-setting/blob/master/test.png?raw=true)
 
 ### (ERROR YOU MAY GET)
 
